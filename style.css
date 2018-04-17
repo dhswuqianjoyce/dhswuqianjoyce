@@ -6,7 +6,7 @@ h1{
 
  h2{
   font-family: verdana;
-  color:blue;
+  color:grey;
 }
 
 p{
@@ -14,5 +14,5 @@ p{
 }
 
 body {
-    background-color: ##00ff99;
+    background-color: #00ff99;
 }
